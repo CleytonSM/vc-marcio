@@ -1,3 +1,7 @@
+# Feito por:
+- Cleyton Souza Martins - 24820
+- Maria Julia Facirolli - 25071
+
 # Detecção de Desgaste em Solados de Calçados
 
 Este projeto é um sistema automatizado em Python capaz de detectar e quantificar o nível de desgaste em solados de calçados a partir de imagens. Ele avalia o quão "gasto" (ou liso) está o padrão de aderência do sapato e fornece uma Pontuação de Desgaste (0 a 100) e uma classificação qualitativa (BAIXO, MÉDIO ou ALTO).
