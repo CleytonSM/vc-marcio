@@ -3,6 +3,9 @@
 - Maria Julia Facirolli - 25071
 
 ---
+# Exemplo
+![Exemplo de aplicação do projeto](exemplo.PNG)
+---
 
 # Detecção de Desgaste em Solados de Calçados
 
