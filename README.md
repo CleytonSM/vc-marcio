@@ -3,8 +3,15 @@
 - Maria Julia Facirolli - 25071
 
 ---
+
 # Exemplo
 ![Exemplo de aplicação do projeto](exemplo.PNG)
+
+---
+
+# Vídeo Demonstrativo
+https://www.youtube.com/watch?v=lXBS3p8J6YU
+
 ---
 
 # Detecção de Desgaste em Solados de Calçados
