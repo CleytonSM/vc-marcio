@@ -23,7 +23,7 @@ Este projeto é um sistema automatizado em Python capaz de detectar e quantifica
 ## Tecnologias Utilizadas
 
 O projeto foi construído em Python e focado em bibliotecas de processamento clássico:
-- **Python 3.10+**
+- **Python 3.12+**
 - **OpenCV**: Para leitura, conversão de cor, transformações morfológicas e geração dos painéis visuais.
 - **NumPy**: Para manipulação eficiente de matrizes de imagens.
 - **Scikit-Image**: Especificamente para operações avançadas como esqueletização.
