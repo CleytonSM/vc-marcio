@@ -1,9 +1,3 @@
-# Feito por:
-- Cleyton Souza Martins - 24820
-- Maria Julia Facirolli - 25071
-
----
-
 # Exemplo
 ![Exemplo de aplicação do projeto](exemplo.PNG)
 
